@@ -1,3 +1,4 @@
+/* Setting up tables and queries to simulate an online bookstore. */
 
 DROP TABLE customer_history;
 DROP TABLE book_history;
